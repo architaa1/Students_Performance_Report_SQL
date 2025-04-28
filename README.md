@@ -30,7 +30,9 @@ The project involves:
 
 Students_Performance_Report_SQL/
 ├── StudentsPerformanceData.csv   # Dataset file
+
 ├── SQL_Queries.sql               # SQL queries for analysis
+
 ├── README.md                     # Project Documentation
 
 🚀 How to Use
