@@ -29,6 +29,7 @@ The project involves:
 ## 📂 Folder Structure
 
 Students_Performance_Report_SQL/
+
 ├── StudentsPerformanceData.csv   # Dataset file
 
 ├── SQL_Queries.sql               # SQL queries for analysis
